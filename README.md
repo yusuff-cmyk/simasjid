@@ -1,4 +1,4 @@
-# SIMasjid - Sistem Informasi Masjid Digital
+# SIMasjid - Sistem Informasi Masjid Digital Download Disini : https://drive.google.com/file/d/1ItRqmop1fuZb63NBzGR9wdZEt2Nh11zB/view?usp=drive_link
 
 **SIMasjid** adalah aplikasi *Digital Signage* berbasis Flutter yang dirancang khusus untuk menampilkan informasi penting di layar TV Masjid. Aplikasi ini menggabungkan fungsi jadwal sholat akurat, media informasi visual, dan integrasi *Smart System* untuk memodernisasi manajemen informasi masjid.
 
